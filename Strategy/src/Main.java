@@ -1,6 +1,6 @@
-import entity.Duck;
-import entity.MallardDuck;
-import entity.ModelDuck;
+import subjects.Duck;
+import subjects.MallardDuck;
+import subjects.ModelDuck;
 import service.impl.FlyRocketPowered;
 
 public class Main {

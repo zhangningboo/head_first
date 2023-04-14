@@ -1,4 +1,4 @@
-package entity;
+package subjects;
 
 import service.FlyBehavior;
 import service.QuackBehavior;

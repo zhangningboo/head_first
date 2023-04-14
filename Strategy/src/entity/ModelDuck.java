@@ -1,4 +1,4 @@
-package entity;
+package subjects;
 
 import service.impl.FlyNoWay;
 import service.impl.Quack;
